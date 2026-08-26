@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "csv_project (local)",
+      "driver": "PostgreSQL",
+      "server": "localhost",
+      "port": 5432,
+      "database": "olist_database",
+      "username": "postgres",
+      "askForPassword": true
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}

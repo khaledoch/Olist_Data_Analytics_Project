@@ -1,0 +1,13 @@
+.env
+data/
+__pycache__/
+*.pyc
+.venv/
+.venv-1/
+.venv-2/
+tmp_*
+queries/revenue_difference.sql
+queries/drill_through_query.sql
+queries/Category Delivery Status.sql
+queries/draft_query.sql
+.github/copilot-instructions.md
