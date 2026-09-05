@@ -1,5 +1,7 @@
 # 📊 Olist E-Commerce Analysis
 
+Built with: 🐘 PostgreSQL · 🐍 Python (pandas) · 📗 Excel · 📊 Power BI
+
 An end-to-end analysis of the Brazilian Olist e-commerce marketplace, built from raw CSV files to PostgreSQL, Python, Excel, and Power BI.
 
 The project focuses on one practical question:
